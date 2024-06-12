@@ -1,1 +1,9 @@
-
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+  - family-names: Xiao
+    given-names: Zhuo-Cheng
+title: "Software for \"Efficient models of cortical activity via local dynamic equilibria and coarse-grained interactions\" by Z-C Xiao, KK Lin, and L-S Young"
+version: 1.0.0
+identifiers:
+date-released: 2021-08-11
